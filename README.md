@@ -1,0 +1,2 @@
+# IDXSplit
+Split an index
