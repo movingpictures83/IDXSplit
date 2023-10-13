@@ -1,0 +1,2 @@
+Prefix plugins/IDXSplit/example/
+Plugin IDXSplit inputfile parameters.txt outputfile .

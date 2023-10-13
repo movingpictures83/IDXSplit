@@ -1,0 +1,4 @@
+file	plugins/IDXSplit/example/input.fna
+numpartitions	4
+affix	kraken
+version	92
